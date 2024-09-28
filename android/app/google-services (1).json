@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616672633913",
+    "project_id": "signrecognization-d8a22",
+    "storage_bucket": "signrecognization-d8a22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616672633913:android:4e67f979da9fb77eb0d9e8",
+        "android_client_info": {
+          "package_name": "com.example.sign_recognition"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2GitYCVWhj2oYUf2gZhCvI0PqD8BZBT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
