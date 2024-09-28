@@ -53,9 +53,9 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB2GitYCVWhj2oYUf2gZhCvI0PqD8BZBT4',
-    appId: '1:616672633913:android:4e67f979da9fb77eb0d9e8',
-    messagingSenderId: '616672633913',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'signrecognization-d8a22',
     storageBucket: 'signrecognization-d8a22.appspot.com',
   );
